@@ -16,7 +16,7 @@
 
 ## 👩‍💻 About Me
 
-- Software Engineer with 5+ years of experience in backend systems, ETL pipelines, and cloud-based applications  
+- Software Engineer with 4+ years of experience in backend systems, ETL pipelines, and cloud-based applications  
 - Strong in Java, Python, SQL, Spring Boot, PySpark, AWS, Terraform, Docker, and Kubernetes  
 - Interested in Software Engineering, Data Engineering, Cloud Engineering, and AI-powered systems  
 - Currently open to full-time opportunities in Software Engineer / Data Engineer roles  
